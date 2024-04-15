@@ -1,0 +1,1 @@
+import{a5 as e}from"./entry.208f3c12.js";function a(){const{$nt:r}=e();return r}function u(){const r=a();function t(n,o){return r.showComponent("TairoToaster",{props:n,options:o})}return{show:t,clear:r.clear,clearAll:r.clearAll}}export{u};

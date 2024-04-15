@@ -1,0 +1,1 @@
+import{o,a as t,i as _}from"./entry.208f3c12.js";import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";const n=""+globalThis.__publicAssetsURL("img/cyto_wallet/original_on_transparent.png"),s={},c=_("img",{src:n,alt:"Cyto logo"},null,-1),r=[c];function a(i,l){return o(),t("div",null,r)}const d=e(s,[["render",a]]);export{d as _};
