@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.c27b6911.js";import{o as e,a as n}from"./entry.63b4628a.js";const _={},c={class:"nui-dropdown-divide"};function t(r,s){return e(),n("div",c)}const d=o(_,[["render",t]]);export{d as _};
